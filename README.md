@@ -38,12 +38,5 @@ UDE-IV is an advanced differential evolution algorithm designed for solving cons
 
 UDE-IV has been rigorously tested on the CEC 2025 benchmark suite consisting of 28 constrained 30D problems and has shown superior performance compared to UDE-III.
 
-## Getting Started
-
-### Prerequisites
-
-- MATLAB
-
 # Run the main optimization script
-# Example (MATLAB):
-main_ude.m
+main_UDE.m
