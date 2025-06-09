@@ -1,0 +1,920 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2020 The MathWorks, Inc.
+              R2020a Update 1 (9.8.0.1359463) 64-bit (glnxa64)
+                               April 9, 2020
+
+ 
+For online documentation, see https://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+
+func_No =
+
+     1
+
+Func:  1 Run:  1, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run:  2, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run:  3, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run:  4, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run:  5, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run:  6, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run:  7, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run:  8, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run:  9, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 10, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 11, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 12, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 13, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 14, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 15, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 16, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 17, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 18, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 19, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 20, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 21, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 22, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 23, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 24, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  1 Run: 25, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+End of Function 1
+
+
+func_No =
+
+     2
+
+Func:  2 Run:  1, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run:  2, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run:  3, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run:  4, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run:  5, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run:  6, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run:  7, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run:  8, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run:  9, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 10, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 11, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 12, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 13, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 14, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 15, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 16, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 17, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 18, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 19, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 20, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 21, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 22, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 23, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 24, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  2 Run: 25, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+End of Function 2
+
+
+func_No =
+
+     3
+
+Func:  3 Run:  1, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run:  2, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run:  3, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run:  4, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run:  5, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run:  6, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run:  7, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run:  8, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run:  9, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 10, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 11, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 12, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 13, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 14, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 15, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 16, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 17, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 18, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 19, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 20, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 21, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 22, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 23, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 24, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  3 Run: 25, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+End of Function 3
+
+
+func_No =
+
+     4
+
+Func:  4 Run:  1, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run:  2, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run:  3, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run:  4, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run:  5, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run:  6, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  4 Run:  7, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run:  8, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run:  9, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  4 Run: 10, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run: 11, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  4 Run: 12, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run: 13, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  4 Run: 14, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  4 Run: 15, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run: 16, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run: 17, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run: 18, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run: 19, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run: 20, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run: 21, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  4 Run: 22, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run: 23, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run: 24, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+Func:  4 Run: 25, Best Func Val: 13.572787, Best Cons Val: 0.000000e+00
+End of Function 4
+
+
+func_No =
+
+     5
+
+Func:  5 Run:  1, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run:  2, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run:  3, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run:  4, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run:  5, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run:  6, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run:  7, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run:  8, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run:  9, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 10, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 11, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 12, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 13, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 14, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 15, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 16, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 17, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 18, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 19, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 20, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 21, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 22, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 23, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 24, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  5 Run: 25, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+End of Function 5
+
+
+func_No =
+
+     6
+
+Func:  6 Run:  1, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run:  2, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run:  3, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run:  4, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run:  5, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run:  6, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run:  7, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run:  8, Best Func Val: 260.389129, Best Cons Val: 0.000000e+00
+Func:  6 Run:  9, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 10, Best Func Val: 349.074751, Best Cons Val: 0.000000e+00
+Func:  6 Run: 11, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 12, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 13, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 14, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 15, Best Func Val: 242.600954, Best Cons Val: 0.000000e+00
+Func:  6 Run: 16, Best Func Val: 333.553056, Best Cons Val: 0.000000e+00
+Func:  6 Run: 17, Best Func Val: 142.262538, Best Cons Val: 0.000000e+00
+Func:  6 Run: 18, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 19, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 20, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 21, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 22, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 23, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 24, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func:  6 Run: 25, Best Func Val: 196.172508, Best Cons Val: 0.000000e+00
+End of Function 6
+
+
+func_No =
+
+     7
+
+Func:  7 Run:  1, Best Func Val: -866.388104, Best Cons Val: 0.000000e+00
+Func:  7 Run:  2, Best Func Val: -878.956925, Best Cons Val: 0.000000e+00
+Func:  7 Run:  3, Best Func Val: -580.776161, Best Cons Val: 0.000000e+00
+Func:  7 Run:  4, Best Func Val: -832.690712, Best Cons Val: 0.000000e+00
+Func:  7 Run:  5, Best Func Val: -546.753155, Best Cons Val: 0.000000e+00
+Func:  7 Run:  6, Best Func Val: -364.511598, Best Cons Val: 0.000000e+00
+Func:  7 Run:  7, Best Func Val: -598.422256, Best Cons Val: 0.000000e+00
+Func:  7 Run:  8, Best Func Val: -498.535957, Best Cons Val: 0.000000e+00
+Func:  7 Run:  9, Best Func Val: -728.750141, Best Cons Val: 0.000000e+00
+Func:  7 Run: 10, Best Func Val: -582.200981, Best Cons Val: 0.000000e+00
+Func:  7 Run: 11, Best Func Val: -594.455352, Best Cons Val: 0.000000e+00
+Func:  7 Run: 12, Best Func Val: -537.305094, Best Cons Val: 0.000000e+00
+Func:  7 Run: 13, Best Func Val: -493.735025, Best Cons Val: 0.000000e+00
+Func:  7 Run: 14, Best Func Val: -365.377377, Best Cons Val: 0.000000e+00
+Func:  7 Run: 15, Best Func Val: -737.931130, Best Cons Val: 0.000000e+00
+Func:  7 Run: 16, Best Func Val: -685.202873, Best Cons Val: 0.000000e+00
+Func:  7 Run: 17, Best Func Val: -593.576025, Best Cons Val: 0.000000e+00
+Func:  7 Run: 18, Best Func Val: -881.732613, Best Cons Val: 0.000000e+00
+Func:  7 Run: 19, Best Func Val: -571.192167, Best Cons Val: 0.000000e+00
+Func:  7 Run: 20, Best Func Val: -668.810700, Best Cons Val: 0.000000e+00
+Func:  7 Run: 21, Best Func Val: -685.151678, Best Cons Val: 0.000000e+00
+Func:  7 Run: 22, Best Func Val: -153.567052, Best Cons Val: 0.000000e+00
+Func:  7 Run: 23, Best Func Val: -770.540940, Best Cons Val: 0.000000e+00
+Func:  7 Run: 24, Best Func Val: -356.198526, Best Cons Val: 0.000000e+00
+Func:  7 Run: 25, Best Func Val: -437.644535, Best Cons Val: 0.000000e+00
+End of Function 7
+
+
+func_No =
+
+     8
+
+Func:  8 Run:  1, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run:  2, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run:  3, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run:  4, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run:  5, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run:  6, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run:  7, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run:  8, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run:  9, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 10, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 11, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 12, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 13, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 14, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 15, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 16, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 17, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 18, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 19, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 20, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 21, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 22, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 23, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 24, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+Func:  8 Run: 25, Best Func Val: -0.000284, Best Cons Val: 0.000000e+00
+End of Function 8
+
+
+func_No =
+
+     9
+
+Func:  9 Run:  1, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run:  2, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run:  3, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run:  4, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run:  5, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run:  6, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run:  7, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run:  8, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run:  9, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 10, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 11, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 12, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 13, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 14, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 15, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 16, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 17, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 18, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 19, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 20, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 21, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 22, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 23, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 24, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+Func:  9 Run: 25, Best Func Val: -0.002666, Best Cons Val: 0.000000e+00
+End of Function 9
+
+
+func_No =
+
+    10
+
+Func: 10 Run:  1, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run:  2, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run:  3, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run:  4, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run:  5, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run:  6, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run:  7, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run:  8, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run:  9, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 10, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 11, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 12, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 13, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 14, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 15, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 16, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 17, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 18, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 19, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 20, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 21, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 22, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 23, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 24, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+Func: 10 Run: 25, Best Func Val: -0.000103, Best Cons Val: 0.000000e+00
+End of Function 10
+
+
+func_No =
+
+    11
+
+Func: 11 Run:  1, Best Func Val: -5.469567, Best Cons Val: 4.277860e-03
+Func: 11 Run:  2, Best Func Val: -1730.341565, Best Cons Val: 6.677403e+02
+Func: 11 Run:  3, Best Func Val: -3.534780, Best Cons Val: 1.306576e-04
+Func: 11 Run:  4, Best Func Val: -0.323866, Best Cons Val: 1.252663e-04
+Func: 11 Run:  5, Best Func Val: -292.226283, Best Cons Val: 1.082823e+01
+Func: 11 Run:  6, Best Func Val: -63.805043, Best Cons Val: 5.188567e-01
+Func: 11 Run:  7, Best Func Val: -1452.354600, Best Cons Val: 2.795377e+02
+Func: 11 Run:  8, Best Func Val: -12.766824, Best Cons Val: 7.352909e-12
+Func: 11 Run:  9, Best Func Val: -4.265190, Best Cons Val: 3.330582e-26
+Func: 11 Run: 10, Best Func Val: 16.089295, Best Cons Val: 7.612034e-09
+Func: 11 Run: 11, Best Func Val: -239.347565, Best Cons Val: 1.553939e+01
+Func: 11 Run: 12, Best Func Val: -1313.348535, Best Cons Val: 4.421730e+02
+Func: 11 Run: 13, Best Func Val: -25.277881, Best Cons Val: 8.649660e-02
+Func: 11 Run: 14, Best Func Val: -9.155446, Best Cons Val: 1.596356e-03
+Func: 11 Run: 15, Best Func Val: -1826.974738, Best Cons Val: 5.545877e+02
+Func: 11 Run: 16, Best Func Val: -203.957061, Best Cons Val: 9.735485e+00
+Func: 11 Run: 17, Best Func Val: -126.504518, Best Cons Val: 2.560409e+00
+Func: 11 Run: 18, Best Func Val: -1421.319724, Best Cons Val: 4.000229e+02
+Func: 11 Run: 19, Best Func Val: -537.220002, Best Cons Val: 5.625936e+01
+Func: 11 Run: 20, Best Func Val: 2.134575, Best Cons Val: 8.072634e-04
+Func: 11 Run: 21, Best Func Val: -1409.505777, Best Cons Val: 3.440236e+02
+Func: 11 Run: 22, Best Func Val: 16.321788, Best Cons Val: 1.170548e-08
+Func: 11 Run: 23, Best Func Val: -5.206630, Best Cons Val: 3.169195e-02
+Func: 11 Run: 24, Best Func Val: -1505.682593, Best Cons Val: 3.176039e+02
+Func: 11 Run: 25, Best Func Val: -52.004109, Best Cons Val: 2.201177e+00
+End of Function 11
+
+
+func_No =
+
+    12
+
+Func: 12 Run:  1, Best Func Val: 3.982529, Best Cons Val: 0.000000e+00
+Func: 12 Run:  2, Best Func Val: 4.147980, Best Cons Val: 0.000000e+00
+Func: 12 Run:  3, Best Func Val: 3.982659, Best Cons Val: 0.000000e+00
+Func: 12 Run:  4, Best Func Val: 3.982565, Best Cons Val: 0.000000e+00
+Func: 12 Run:  5, Best Func Val: 3.982548, Best Cons Val: 0.000000e+00
+Func: 12 Run:  6, Best Func Val: 3.982563, Best Cons Val: 0.000000e+00
+Func: 12 Run:  7, Best Func Val: 3.982543, Best Cons Val: 0.000000e+00
+Func: 12 Run:  8, Best Func Val: 3.982729, Best Cons Val: 0.000000e+00
+Func: 12 Run:  9, Best Func Val: 3.982541, Best Cons Val: 0.000000e+00
+Func: 12 Run: 10, Best Func Val: 3.982595, Best Cons Val: 0.000000e+00
+Func: 12 Run: 11, Best Func Val: 3.982614, Best Cons Val: 0.000000e+00
+Func: 12 Run: 12, Best Func Val: 3.982592, Best Cons Val: 0.000000e+00
+Func: 12 Run: 13, Best Func Val: 3.982571, Best Cons Val: 0.000000e+00
+Func: 12 Run: 14, Best Func Val: 3.982669, Best Cons Val: 0.000000e+00
+Func: 12 Run: 15, Best Func Val: 3.982588, Best Cons Val: 0.000000e+00
+Func: 12 Run: 16, Best Func Val: 3.982544, Best Cons Val: 0.000000e+00
+Func: 12 Run: 17, Best Func Val: 3.982549, Best Cons Val: 0.000000e+00
+Func: 12 Run: 18, Best Func Val: 3.982531, Best Cons Val: 0.000000e+00
+Func: 12 Run: 19, Best Func Val: 3.982587, Best Cons Val: 0.000000e+00
+Func: 12 Run: 20, Best Func Val: 3.982642, Best Cons Val: 0.000000e+00
+Func: 12 Run: 21, Best Func Val: 3.982538, Best Cons Val: 0.000000e+00
+Func: 12 Run: 22, Best Func Val: 3.982540, Best Cons Val: 0.000000e+00
+Func: 12 Run: 23, Best Func Val: 3.982552, Best Cons Val: 0.000000e+00
+Func: 12 Run: 24, Best Func Val: 3.982561, Best Cons Val: 0.000000e+00
+Func: 12 Run: 25, Best Func Val: 3.982628, Best Cons Val: 0.000000e+00
+End of Function 12
+
+
+func_No =
+
+    13
+
+Func: 13 Run:  1, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run:  2, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run:  3, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run:  4, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run:  5, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run:  6, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run:  7, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run:  8, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run:  9, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 10, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 11, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 12, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 13, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 14, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 15, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 16, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 17, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 18, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 19, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 20, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 21, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 22, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 23, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 24, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 13 Run: 25, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+End of Function 13
+
+
+func_No =
+
+    14
+
+Func: 14 Run:  1, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run:  2, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run:  3, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run:  4, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run:  5, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run:  6, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run:  7, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run:  8, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run:  9, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 10, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 11, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 12, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 13, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 14, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 15, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 16, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 17, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 18, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 19, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 20, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 21, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 22, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 23, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 24, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 14 Run: 25, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+End of Function 14
+
+
+func_No =
+
+    15
+
+Func: 15 Run:  1, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run:  2, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run:  3, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run:  4, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run:  5, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run:  6, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run:  7, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run:  8, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run:  9, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 10, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 11, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 12, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 13, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 14, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 15, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 16, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 17, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 18, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 19, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 20, Best Func Val: 2.356127, Best Cons Val: 0.000000e+00
+Func: 15 Run: 21, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 22, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 23, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 24, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 15 Run: 25, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+End of Function 15
+
+
+func_No =
+
+    16
+
+Func: 16 Run:  1, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run:  2, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run:  3, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run:  4, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run:  5, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run:  6, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run:  7, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run:  8, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run:  9, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 10, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 11, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 12, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 13, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 14, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 15, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 16, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 17, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 18, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 19, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 20, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 21, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 22, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 23, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 24, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 16 Run: 25, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+End of Function 16
+
+
+func_No =
+
+    17
+
+Func: 17 Run:  1, Best Func Val: 0.039093, Best Cons Val: 2.900000e+01
+Func: 17 Run:  2, Best Func Val: 0.035269, Best Cons Val: 2.900000e+01
+Func: 17 Run:  3, Best Func Val: 0.548914, Best Cons Val: 2.900000e+01
+Func: 17 Run:  4, Best Func Val: 0.470971, Best Cons Val: 2.900000e+01
+Func: 17 Run:  5, Best Func Val: 0.033219, Best Cons Val: 2.900000e+01
+Func: 17 Run:  6, Best Func Val: 0.035142, Best Cons Val: 2.900000e+01
+Func: 17 Run:  7, Best Func Val: 0.032247, Best Cons Val: 2.900000e+01
+Func: 17 Run:  8, Best Func Val: 0.047611, Best Cons Val: 2.900000e+01
+Func: 17 Run:  9, Best Func Val: 0.856649, Best Cons Val: 2.900000e+01
+Func: 17 Run: 10, Best Func Val: 0.804376, Best Cons Val: 2.900000e+01
+Func: 17 Run: 11, Best Func Val: 0.075184, Best Cons Val: 2.900000e+01
+Func: 17 Run: 12, Best Func Val: 0.035739, Best Cons Val: 2.900000e+01
+Func: 17 Run: 13, Best Func Val: 0.033919, Best Cons Val: 2.900000e+01
+Func: 17 Run: 14, Best Func Val: 1.302981, Best Cons Val: 2.900000e+01
+Func: 17 Run: 15, Best Func Val: 0.779142, Best Cons Val: 2.900000e+01
+Func: 17 Run: 16, Best Func Val: 1.283081, Best Cons Val: 2.900000e+01
+Func: 17 Run: 17, Best Func Val: 0.033212, Best Cons Val: 2.900000e+01
+Func: 17 Run: 18, Best Func Val: 0.036616, Best Cons Val: 2.900000e+01
+Func: 17 Run: 19, Best Func Val: 1.158557, Best Cons Val: 2.900000e+01
+Func: 17 Run: 20, Best Func Val: 0.084338, Best Cons Val: 2.900000e+01
+Func: 17 Run: 21, Best Func Val: 0.032237, Best Cons Val: 2.900000e+01
+Func: 17 Run: 22, Best Func Val: 0.033235, Best Cons Val: 2.900000e+01
+Func: 17 Run: 23, Best Func Val: 0.033017, Best Cons Val: 2.900000e+01
+Func: 17 Run: 24, Best Func Val: 0.032746, Best Cons Val: 2.900000e+01
+Func: 17 Run: 25, Best Func Val: 0.348854, Best Cons Val: 2.900000e+01
+End of Function 17
+
+
+func_No =
+
+    18
+
+Func: 18 Run:  1, Best Func Val: 36.520321, Best Cons Val: 0.000000e+00
+Func: 18 Run:  2, Best Func Val: 36.520316, Best Cons Val: 0.000000e+00
+Func: 18 Run:  3, Best Func Val: 36.520311, Best Cons Val: 0.000000e+00
+Func: 18 Run:  4, Best Func Val: 36.520308, Best Cons Val: 0.000000e+00
+Func: 18 Run:  5, Best Func Val: 36.520353, Best Cons Val: 0.000000e+00
+Func: 18 Run:  6, Best Func Val: 36.520308, Best Cons Val: 0.000000e+00
+Func: 18 Run:  7, Best Func Val: 36.520310, Best Cons Val: 0.000000e+00
+Func: 18 Run:  8, Best Func Val: 36.520315, Best Cons Val: 0.000000e+00
+Func: 18 Run:  9, Best Func Val: 36.520315, Best Cons Val: 0.000000e+00
+Func: 18 Run: 10, Best Func Val: 36.520308, Best Cons Val: 0.000000e+00
+Func: 18 Run: 11, Best Func Val: 36.520366, Best Cons Val: 0.000000e+00
+Func: 18 Run: 12, Best Func Val: 36.520321, Best Cons Val: 0.000000e+00
+Func: 18 Run: 13, Best Func Val: 36.520301, Best Cons Val: 0.000000e+00
+Func: 18 Run: 14, Best Func Val: 36.520333, Best Cons Val: 0.000000e+00
+Func: 18 Run: 15, Best Func Val: 36.520302, Best Cons Val: 0.000000e+00
+Func: 18 Run: 16, Best Func Val: 36.520330, Best Cons Val: 0.000000e+00
+Func: 18 Run: 17, Best Func Val: 36.520319, Best Cons Val: 0.000000e+00
+Func: 18 Run: 18, Best Func Val: 36.520373, Best Cons Val: 0.000000e+00
+Func: 18 Run: 19, Best Func Val: 36.520317, Best Cons Val: 0.000000e+00
+Func: 18 Run: 20, Best Func Val: 36.520306, Best Cons Val: 0.000000e+00
+Func: 18 Run: 21, Best Func Val: 36.527080, Best Cons Val: 0.000000e+00
+Func: 18 Run: 22, Best Func Val: 36.520332, Best Cons Val: 0.000000e+00
+Func: 18 Run: 23, Best Func Val: 36.520303, Best Cons Val: 0.000000e+00
+Func: 18 Run: 24, Best Func Val: 36.520311, Best Cons Val: 0.000000e+00
+Func: 18 Run: 25, Best Func Val: 36.520321, Best Cons Val: 0.000000e+00
+End of Function 18
+
+
+func_No =
+
+    19
+
+Func: 19 Run:  1, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run:  2, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run:  3, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run:  4, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run:  5, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run:  6, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run:  7, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run:  8, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run:  9, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 10, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 11, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 12, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 13, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 14, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 15, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 16, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 17, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 18, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 19, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 20, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 21, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 22, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 23, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 24, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+Func: 19 Run: 25, Best Func Val: 0.000000, Best Cons Val: 4.274982e+04
+End of Function 19
+
+
+func_No =
+
+    20
+
+Func: 20 Run:  1, Best Func Val: 1.611897, Best Cons Val: 0.000000e+00
+Func: 20 Run:  2, Best Func Val: 1.314395, Best Cons Val: 0.000000e+00
+Func: 20 Run:  3, Best Func Val: 2.119962, Best Cons Val: 0.000000e+00
+Func: 20 Run:  4, Best Func Val: 1.720811, Best Cons Val: 0.000000e+00
+Func: 20 Run:  5, Best Func Val: 1.450091, Best Cons Val: 0.000000e+00
+Func: 20 Run:  6, Best Func Val: 1.981229, Best Cons Val: 0.000000e+00
+Func: 20 Run:  7, Best Func Val: 1.505477, Best Cons Val: 0.000000e+00
+Func: 20 Run:  8, Best Func Val: 2.051435, Best Cons Val: 0.000000e+00
+Func: 20 Run:  9, Best Func Val: 1.975844, Best Cons Val: 0.000000e+00
+Func: 20 Run: 10, Best Func Val: 1.960346, Best Cons Val: 0.000000e+00
+Func: 20 Run: 11, Best Func Val: 1.652569, Best Cons Val: 0.000000e+00
+Func: 20 Run: 12, Best Func Val: 1.818036, Best Cons Val: 0.000000e+00
+Func: 20 Run: 13, Best Func Val: 1.990669, Best Cons Val: 0.000000e+00
+Func: 20 Run: 14, Best Func Val: 1.990884, Best Cons Val: 0.000000e+00
+Func: 20 Run: 15, Best Func Val: 1.331543, Best Cons Val: 0.000000e+00
+Func: 20 Run: 16, Best Func Val: 1.521145, Best Cons Val: 0.000000e+00
+Func: 20 Run: 17, Best Func Val: 1.524995, Best Cons Val: 0.000000e+00
+Func: 20 Run: 18, Best Func Val: 1.755393, Best Cons Val: 0.000000e+00
+Func: 20 Run: 19, Best Func Val: 1.642734, Best Cons Val: 0.000000e+00
+Func: 20 Run: 20, Best Func Val: 1.772268, Best Cons Val: 0.000000e+00
+Func: 20 Run: 21, Best Func Val: 2.270630, Best Cons Val: 0.000000e+00
+Func: 20 Run: 22, Best Func Val: 2.323270, Best Cons Val: 0.000000e+00
+Func: 20 Run: 23, Best Func Val: 2.202902, Best Cons Val: 0.000000e+00
+Func: 20 Run: 24, Best Func Val: 2.243654, Best Cons Val: 0.000000e+00
+Func: 20 Run: 25, Best Func Val: 1.799626, Best Cons Val: 0.000000e+00
+End of Function 20
+
+
+func_No =
+
+    21
+
+Func: 21 Run:  1, Best Func Val: 9.943044, Best Cons Val: 0.000000e+00
+Func: 21 Run:  2, Best Func Val: 3.982617, Best Cons Val: 0.000000e+00
+Func: 21 Run:  3, Best Func Val: 3.982580, Best Cons Val: 0.000000e+00
+Func: 21 Run:  4, Best Func Val: 3.982587, Best Cons Val: 0.000000e+00
+Func: 21 Run:  5, Best Func Val: 3.982618, Best Cons Val: 0.000000e+00
+Func: 21 Run:  6, Best Func Val: 3.982651, Best Cons Val: 0.000000e+00
+Func: 21 Run:  7, Best Func Val: 14.602869, Best Cons Val: 0.000000e+00
+Func: 21 Run:  8, Best Func Val: 9.784279, Best Cons Val: 0.000000e+00
+Func: 21 Run:  9, Best Func Val: 3.982649, Best Cons Val: 0.000000e+00
+Func: 21 Run: 10, Best Func Val: 3.982620, Best Cons Val: 0.000000e+00
+Func: 21 Run: 11, Best Func Val: 9.775667, Best Cons Val: 0.000000e+00
+Func: 21 Run: 12, Best Func Val: 9.904407, Best Cons Val: 0.000000e+00
+Func: 21 Run: 13, Best Func Val: 3.982632, Best Cons Val: 0.000000e+00
+Func: 21 Run: 14, Best Func Val: 3.982633, Best Cons Val: 0.000000e+00
+Func: 21 Run: 15, Best Func Val: 3.982526, Best Cons Val: 0.000000e+00
+Func: 21 Run: 16, Best Func Val: 3.982631, Best Cons Val: 0.000000e+00
+Func: 21 Run: 17, Best Func Val: 9.964161, Best Cons Val: 0.000000e+00
+Func: 21 Run: 18, Best Func Val: 3.982660, Best Cons Val: 0.000000e+00
+Func: 21 Run: 19, Best Func Val: 10.082743, Best Cons Val: 0.000000e+00
+Func: 21 Run: 20, Best Func Val: 14.602963, Best Cons Val: 0.000000e+00
+Func: 21 Run: 21, Best Func Val: 3.982648, Best Cons Val: 0.000000e+00
+Func: 21 Run: 22, Best Func Val: 3.982617, Best Cons Val: 0.000000e+00
+Func: 21 Run: 23, Best Func Val: 14.602905, Best Cons Val: 0.000000e+00
+Func: 21 Run: 24, Best Func Val: 9.775911, Best Cons Val: 0.000000e+00
+Func: 21 Run: 25, Best Func Val: 9.990593, Best Cons Val: 0.000000e+00
+End of Function 21
+
+
+func_No =
+
+    22
+
+Func: 22 Run:  1, Best Func Val: 0.000004, Best Cons Val: 0.000000e+00
+Func: 22 Run:  2, Best Func Val: 0.008987, Best Cons Val: 0.000000e+00
+Func: 22 Run:  3, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 22 Run:  4, Best Func Val: 0.144488, Best Cons Val: 0.000000e+00
+Func: 22 Run:  5, Best Func Val: 0.380216, Best Cons Val: 0.000000e+00
+Func: 22 Run:  6, Best Func Val: 0.000214, Best Cons Val: 0.000000e+00
+Func: 22 Run:  7, Best Func Val: 0.451175, Best Cons Val: 0.000000e+00
+Func: 22 Run:  8, Best Func Val: 0.160138, Best Cons Val: 0.000000e+00
+Func: 22 Run:  9, Best Func Val: 0.000036, Best Cons Val: 0.000000e+00
+Func: 22 Run: 10, Best Func Val: 4.012758, Best Cons Val: 0.000000e+00
+Func: 22 Run: 11, Best Func Val: 0.115681, Best Cons Val: 0.000000e+00
+Func: 22 Run: 12, Best Func Val: 0.000001, Best Cons Val: 0.000000e+00
+Func: 22 Run: 13, Best Func Val: 0.015835, Best Cons Val: 0.000000e+00
+Func: 22 Run: 14, Best Func Val: 0.075439, Best Cons Val: 0.000000e+00
+Func: 22 Run: 15, Best Func Val: 0.108118, Best Cons Val: 0.000000e+00
+Func: 22 Run: 16, Best Func Val: 0.387788, Best Cons Val: 0.000000e+00
+Func: 22 Run: 17, Best Func Val: 0.104788, Best Cons Val: 0.000000e+00
+Func: 22 Run: 18, Best Func Val: 1.266081, Best Cons Val: 0.000000e+00
+Func: 22 Run: 19, Best Func Val: 0.174600, Best Cons Val: 0.000000e+00
+Func: 22 Run: 20, Best Func Val: 0.520049, Best Cons Val: 0.000000e+00
+Func: 22 Run: 21, Best Func Val: 0.000002, Best Cons Val: 0.000000e+00
+Func: 22 Run: 22, Best Func Val: 0.240301, Best Cons Val: 0.000000e+00
+Func: 22 Run: 23, Best Func Val: 0.000348, Best Cons Val: 0.000000e+00
+Func: 22 Run: 24, Best Func Val: 0.002140, Best Cons Val: 0.000000e+00
+Func: 22 Run: 25, Best Func Val: 94.536232, Best Cons Val: 0.000000e+00
+End of Function 22
+
+
+func_No =
+
+    23
+
+Func: 23 Run:  1, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run:  2, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run:  3, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run:  4, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run:  5, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run:  6, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run:  7, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run:  8, Best Func Val: 1.495442, Best Cons Val: 0.000000e+00
+Func: 23 Run:  9, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run: 10, Best Func Val: 1.495442, Best Cons Val: 0.000000e+00
+Func: 23 Run: 11, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run: 12, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run: 13, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 23 Run: 14, Best Func Val: 1.495442, Best Cons Val: 0.000000e+00
+Func: 23 Run: 15, Best Func Val: 1.495443, Best Cons Val: 0.000000e+00
+Func: 23 Run: 16, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run: 17, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run: 18, Best Func Val: 1.495442, Best Cons Val: 0.000000e+00
+Func: 23 Run: 19, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run: 20, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run: 21, Best Func Val: 1.408518, Best Cons Val: 0.000000e+00
+Func: 23 Run: 22, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run: 23, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run: 24, Best Func Val: 1.408519, Best Cons Val: 0.000000e+00
+Func: 23 Run: 25, Best Func Val: 1.495442, Best Cons Val: 0.000000e+00
+End of Function 23
+
+
+func_No =
+
+    24
+
+Func: 24 Run:  1, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run:  2, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run:  3, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run:  4, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run:  5, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run:  6, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run:  7, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run:  8, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run:  9, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 10, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 11, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 12, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 13, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 14, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 15, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 16, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 17, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 18, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 19, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 20, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 21, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 22, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 23, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 24, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+Func: 24 Run: 25, Best Func Val: 2.356124, Best Cons Val: 0.000000e+00
+End of Function 24
+
+
+func_No =
+
+    25
+
+Func: 25 Run:  1, Best Func Val: 0.000001, Best Cons Val: 0.000000e+00
+Func: 25 Run:  2, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 25 Run:  3, Best Func Val: 0.000002, Best Cons Val: 0.000000e+00
+Func: 25 Run:  4, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 25 Run:  5, Best Func Val: 62.831722, Best Cons Val: 0.000000e+00
+Func: 25 Run:  6, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 25 Run:  7, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 25 Run:  8, Best Func Val: 0.000001, Best Cons Val: 0.000000e+00
+Func: 25 Run:  9, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 25 Run: 10, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 25 Run: 11, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 25 Run: 12, Best Func Val: 0.000041, Best Cons Val: 0.000000e+00
+Func: 25 Run: 13, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 25 Run: 14, Best Func Val: 0.000021, Best Cons Val: 0.000000e+00
+Func: 25 Run: 15, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 25 Run: 16, Best Func Val: 0.000014, Best Cons Val: 0.000000e+00
+Func: 25 Run: 17, Best Func Val: 7.853997, Best Cons Val: 0.000000e+00
+Func: 25 Run: 18, Best Func Val: 0.000003, Best Cons Val: 0.000000e+00
+Func: 25 Run: 19, Best Func Val: 0.000001, Best Cons Val: 0.000000e+00
+Func: 25 Run: 20, Best Func Val: 0.000011, Best Cons Val: 0.000000e+00
+Func: 25 Run: 21, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 25 Run: 22, Best Func Val: 0.000002, Best Cons Val: 0.000000e+00
+Func: 25 Run: 23, Best Func Val: 0.000051, Best Cons Val: 0.000000e+00
+Func: 25 Run: 24, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+Func: 25 Run: 25, Best Func Val: 0.000000, Best Cons Val: 0.000000e+00
+End of Function 25
+
+
+func_No =
+
+    26
+
+Func: 26 Run:  1, Best Func Val: 0.800023, Best Cons Val: 3.100000e+01
+Func: 26 Run:  2, Best Func Val: 1.028382, Best Cons Val: 3.100000e+01
+Func: 26 Run:  3, Best Func Val: 0.493686, Best Cons Val: 2.900000e+01
+Func: 26 Run:  4, Best Func Val: 0.697651, Best Cons Val: 3.100000e+01
+Func: 26 Run:  5, Best Func Val: 0.949464, Best Cons Val: 3.100000e+01
+Func: 26 Run:  6, Best Func Val: 1.045556, Best Cons Val: 3.100000e+01
+Func: 26 Run:  7, Best Func Val: 0.126805, Best Cons Val: 3.100000e+01
+Func: 26 Run:  8, Best Func Val: 0.679144, Best Cons Val: 3.100000e+01
+Func: 26 Run:  9, Best Func Val: 0.555372, Best Cons Val: 3.100000e+01
+Func: 26 Run: 10, Best Func Val: 0.036565, Best Cons Val: 3.100000e+01
+Func: 26 Run: 11, Best Func Val: 1.021226, Best Cons Val: 3.100000e+01
+Func: 26 Run: 12, Best Func Val: 0.821833, Best Cons Val: 3.100000e+01
+Func: 26 Run: 13, Best Func Val: 0.121856, Best Cons Val: 2.900000e+01
+Func: 26 Run: 14, Best Func Val: 0.367034, Best Cons Val: 2.900000e+01
+Func: 26 Run: 15, Best Func Val: 0.523360, Best Cons Val: 3.100000e+01
+Func: 26 Run: 16, Best Func Val: 1.014942, Best Cons Val: 3.100000e+01
+Func: 26 Run: 17, Best Func Val: 0.388031, Best Cons Val: 3.100000e+01
+Func: 26 Run: 18, Best Func Val: 0.805293, Best Cons Val: 3.100000e+01
+Func: 26 Run: 19, Best Func Val: 1.029053, Best Cons Val: 3.100000e+01
+Func: 26 Run: 20, Best Func Val: 0.822464, Best Cons Val: 3.100000e+01
+Func: 26 Run: 21, Best Func Val: 1.000281, Best Cons Val: 3.100000e+01
+Func: 26 Run: 22, Best Func Val: 0.941991, Best Cons Val: 3.100000e+01
+Func: 26 Run: 23, Best Func Val: 1.029898, Best Cons Val: 3.100000e+01
+Func: 26 Run: 24, Best Func Val: 0.056208, Best Cons Val: 3.100000e+01
+Func: 26 Run: 25, Best Func Val: 0.406624, Best Cons Val: 3.100000e+01
+End of Function 26
+
+
+func_No =
+
+    27
+
+Func: 27 Run:  1, Best Func Val: 36.520508, Best Cons Val: 0.000000e+00
+Func: 27 Run:  2, Best Func Val: 36.520489, Best Cons Val: 0.000000e+00
+Func: 27 Run:  3, Best Func Val: 36.520632, Best Cons Val: 0.000000e+00
+Func: 27 Run:  4, Best Func Val: 36.520894, Best Cons Val: 0.000000e+00
+Func: 27 Run:  5, Best Func Val: 36.520505, Best Cons Val: 0.000000e+00
+Func: 27 Run:  6, Best Func Val: 36.520446, Best Cons Val: 0.000000e+00
+Func: 27 Run:  7, Best Func Val: 38.186735, Best Cons Val: 0.000000e+00
+Func: 27 Run:  8, Best Func Val: 36.520402, Best Cons Val: 0.000000e+00
+Func: 27 Run:  9, Best Func Val: 36.520440, Best Cons Val: 0.000000e+00
+Func: 27 Run: 10, Best Func Val: 36.520544, Best Cons Val: 0.000000e+00
+Func: 27 Run: 11, Best Func Val: 36.520452, Best Cons Val: 0.000000e+00
+Func: 27 Run: 12, Best Func Val: 36.520698, Best Cons Val: 0.000000e+00
+Func: 27 Run: 13, Best Func Val: 36.520450, Best Cons Val: 0.000000e+00
+Func: 27 Run: 14, Best Func Val: 36.520423, Best Cons Val: 0.000000e+00
+Func: 27 Run: 15, Best Func Val: 36.520478, Best Cons Val: 0.000000e+00
+Func: 27 Run: 16, Best Func Val: 36.520496, Best Cons Val: 0.000000e+00
+Func: 27 Run: 17, Best Func Val: 36.520509, Best Cons Val: 0.000000e+00
+Func: 27 Run: 18, Best Func Val: 36.520580, Best Cons Val: 0.000000e+00
+Func: 27 Run: 19, Best Func Val: 39.217713, Best Cons Val: 0.000000e+00
+Func: 27 Run: 20, Best Func Val: 36.520458, Best Cons Val: 0.000000e+00
+Func: 27 Run: 21, Best Func Val: 37.217802, Best Cons Val: 0.000000e+00
+Func: 27 Run: 22, Best Func Val: 36.520694, Best Cons Val: 0.000000e+00
+Func: 27 Run: 23, Best Func Val: 37.217638, Best Cons Val: 0.000000e+00
+Func: 27 Run: 24, Best Func Val: 36.520689, Best Cons Val: 0.000000e+00
+Func: 27 Run: 25, Best Func Val: 36.520725, Best Cons Val: 0.000000e+00
+End of Function 27
+
+
+func_No =
+
+    28
+
+Func: 28 Run:  1, Best Func Val: 87.421540, Best Cons Val: 4.292975e+04
+Func: 28 Run:  2, Best Func Val: 69.131140, Best Cons Val: 4.287981e+04
+Func: 28 Run:  3, Best Func Val: 101.281887, Best Cons Val: 4.290944e+04
+Func: 28 Run:  4, Best Func Val: 56.461099, Best Cons Val: 4.289755e+04
+Func: 28 Run:  5, Best Func Val: 132.694461, Best Cons Val: 4.292982e+04
+Func: 28 Run:  6, Best Func Val: 114.720263, Best Cons Val: 4.290981e+04
+Func: 28 Run:  7, Best Func Val: 119.102289, Best Cons Val: 4.291982e+04
+Func: 28 Run:  8, Best Func Val: 98.215417, Best Cons Val: 4.291981e+04
+Func: 28 Run:  9, Best Func Val: 83.397799, Best Cons Val: 4.290973e+04
+Func: 28 Run: 10, Best Func Val: 72.969588, Best Cons Val: 4.289951e+04
+Func: 28 Run: 11, Best Func Val: 63.126690, Best Cons Val: 4.288924e+04
+Func: 28 Run: 12, Best Func Val: 117.348822, Best Cons Val: 4.290981e+04
+Func: 28 Run: 13, Best Func Val: 100.383116, Best Cons Val: 4.290866e+04
+Func: 28 Run: 14, Best Func Val: 92.898837, Best Cons Val: 4.290981e+04
+Func: 28 Run: 15, Best Func Val: 62.813562, Best Cons Val: 4.287827e+04
+Func: 28 Run: 16, Best Func Val: 123.658414, Best Cons Val: 4.293970e+04
+Func: 28 Run: 17, Best Func Val: 105.320645, Best Cons Val: 4.291981e+04
+Func: 28 Run: 18, Best Func Val: 105.417961, Best Cons Val: 4.290981e+04
+Func: 28 Run: 19, Best Func Val: 103.242142, Best Cons Val: 4.289982e+04
+Func: 28 Run: 20, Best Func Val: 110.167511, Best Cons Val: 4.291981e+04
+Func: 28 Run: 21, Best Func Val: 80.773039, Best Cons Val: 4.287939e+04
+Func: 28 Run: 22, Best Func Val: 91.255532, Best Cons Val: 4.291964e+04
+Func: 28 Run: 23, Best Func Val: 92.757619, Best Cons Val: 4.287974e+04
+Func: 28 Run: 24, Best Func Val: 79.883498, Best Cons Val: 4.287915e+04
+Func: 28 Run: 25, Best Func Val: 126.461780, Best Cons Val: 4.292981e+04
+End of Function 28
+
+>>       ======================================================================================
+     Resource Usage on 2025-05-29 16:38:02.213575:
+     JobId: 93738.venus01  				 Project: Project_Name_of_Job 
+     Submission Host: atlas9-c01.nus.edu.sg 
+     Exit Status: 0
+     NCPUs Requested: 12 				 NCPUs Used: 12
+     Memory Requested: 10gb 				 Memory Used: 907820kb 
+     Vmem Used: 3408408kb
+     CPU Time Used: 10:35:21 
+     Walltime requested: 240:00:00 			 Walltime Used: 03:45:55
+     Submit Time:  Thu May 29 12:52:03 2025 		 Start Time: Thu May 29 12:52:06 2025 
+     End Time: Thu May 29 16:38:02 2025 
+     Execution Nodes Used: (cnode-33-43-32:ncpus=12:mem=10485760kb)
+     ======================================================================================

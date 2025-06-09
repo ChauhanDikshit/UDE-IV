@@ -1,0 +1,10 @@
+#PBS -P Project_Name_of_Job
+#PBS -q parallel
+#PBS -l select=1:ncpus=12:mpiprocs=12:mem=10GB
+#PBS -j oe
+#PBS -N UDE-III
+###  -N Job_Name: set filename for standard output/error message.
+cd $PBS_O_WORKDIR;   
+##--- Put your exec/application commands below ---
+## If your matlab program is < my_matlab_prog.m >.
+matlab -nojvm -nodisplay -nosplash -r Main_UDE
